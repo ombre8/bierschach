@@ -5,7 +5,7 @@ Spielregeln zum Bierschach
 Man nehme eine Standard Bierharasse (4x5 Flaschen) mit 6 Flaschen und baue die Ausgangssituation auf:
 
 |X|O|O| |
-
+|-|-|-|-|
 |O|O| | |
 
 |O| | |O|
@@ -31,7 +31,7 @@ Jeder Spieler darf alle Flaschen bewegen, Ausnahme ist der gegnerische Koenig.
 Es gelten dieselben Regeln, wie beim normalen Bierschach. Gespielt wird mit 2 Harassen.
 
 |X|O|O| | |O|O|X|
-
+|-|-|-|-|-|-|-|-|
 |O|O| | | | |O|O|
 
 | | | |O|0| | | |
