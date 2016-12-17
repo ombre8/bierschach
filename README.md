@@ -30,6 +30,6 @@ Es gelten dieselben Regeln, wie beim normalen Bierschach. Gespielt wird mit 2 Ha
 |X|O|O| | |O|O|X|
 |---|---|---|---|---|---|---|---|
 |O|O| | | | |O|O|
-| | | |O|0| | | |
+| | | |O|O| | | |
 |O|O| | | | |O|O|
 |X|O|O| | |O|O|X|
