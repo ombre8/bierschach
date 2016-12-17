@@ -1,0 +1,2 @@
+# bierschach
+Spielregeln zum Bierschach
