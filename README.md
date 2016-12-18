@@ -11,7 +11,7 @@ Man nehme eine Standard Bierharasse (4x5 Flaschen) mit 6 Flaschen und baue die A
 | | |O|O|
 | |O|O|X|
 
-Wobei X den Koenig und O die Bauern representieren. Der Koenig hat den Kronkorken auf der Flasche, die Bauern sind offene Flaschen (oder umgekehrt, je nach Trinfortschritt).
+Wobei X den Koenig und O die Bauern representieren. Der Koenig hat den Kronkorken auf der Flasche, die Bauern sind offene Flaschen (oder umgekehrt, je nach Trinkfortschritt).
 
 ### Ziel
 Das Ziel jedes Spielers ist es seinen Koenig als erster an die Startposition des Gegners zu setzen.
