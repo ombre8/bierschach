@@ -15,7 +15,7 @@ Wobei X den König und O die Bauern representieren. Der König hat den Kronkorke
 
 ### Ziel
 Das Ziel jedes Spielers ist es seinen König als erster an die Startposition des Gegners zu setzen.
-### Spielzuege
+### Spielzüge
 Bauern duerfen nur bewegt werden, indem sie eine andere Flasche ueberspringen. Es sind nur 90 Grad Bewegungen erlaubt.
 
 Der König darf nur ein Feld fahren, es sind sowohl 90 Grad wie auch 45 Grad Bewegungen erlaubt.
