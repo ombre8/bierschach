@@ -1,5 +1,6 @@
 # Bierschach
 Spielregeln zum Bierschach
+English-Rules can be found here: https://github.com/ombre8/bierschach/blob/master/README_EN.md
 
 ## Spielregeln
 Man nehme eine Standard Bierharasse (4x5 Flaschen) mit 6 Flaschen und baue die Ausgangssituation auf:
