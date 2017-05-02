@@ -2,7 +2,7 @@
 Ruleset for Beerchess
 
 ## Rules
-Use a beercrate (4x5 Bottels) and 6 Bottels to set up the Start position:
+Use a beercrate (4x5 Bottels) and 12 Bottels to set up the Start position:
 
 |X|O|O| |
 |---|---|---|---|
